@@ -47,3 +47,7 @@ html, body {
 .text-center {
     text-align: center;
 }
+
+.img-carousel{
+  width: 100%;
+}
